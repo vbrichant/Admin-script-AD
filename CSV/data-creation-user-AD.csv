@@ -1,0 +1,3 @@
+Username,ID,Psw,FirstName,LastName,Email,Departement,Description,Enable,OU
+NoHub,10233,Test12345,Noemie,Hubert,no.hubert@gmail.com,RH,DRH,"True","OU=utilisateurs,DC=l2-6,DC=lab"
+vinsbrich,12365,Test12345,Vins,Brichant,v.brich@gmail.com,IT,IT-Administrator,"False","OU=utilisateurs,DC=l2-6,DC=lab"
